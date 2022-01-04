@@ -1,0 +1,67 @@
+[
+	{
+		"file": "C:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\Pacman\\\\Source\\\\Pacman\\\\EnemyPawn.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\user\\Documents\\Unreal Projects\\Pacman\\.vscode\\compileCommands_Pacman\\Pacman.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\Pacman\\\\Source\\\\Pacman\\\\EnemyPawn.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\user\\Documents\\Unreal Projects\\Pacman\\.vscode\\compileCommands_Pacman\\Pacman.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\Pacman\\\\Source\\\\Pacman\\\\Foodie.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\user\\Documents\\Unreal Projects\\Pacman\\.vscode\\compileCommands_Pacman\\Pacman.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\Pacman\\\\Source\\\\Pacman\\\\Foodie.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\user\\Documents\\Unreal Projects\\Pacman\\.vscode\\compileCommands_Pacman\\Pacman.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\Pacman\\\\Source\\\\Pacman\\\\Pacman.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\user\\Documents\\Unreal Projects\\Pacman\\.vscode\\compileCommands_Pacman\\Pacman.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\Pacman\\\\Source\\\\Pacman\\\\Pacman.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\user\\Documents\\Unreal Projects\\Pacman\\.vscode\\compileCommands_Pacman\\Pacman.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\Pacman\\\\Source\\\\Pacman\\\\Pacman.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\user\\Documents\\Unreal Projects\\Pacman\\.vscode\\compileCommands_Pacman\\Pacman.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\Pacman\\\\Source\\\\Pacman\\\\PacmanController.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\user\\Documents\\Unreal Projects\\Pacman\\.vscode\\compileCommands_Pacman\\Pacman.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\Pacman\\\\Source\\\\Pacman\\\\PacmanController.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\user\\Documents\\Unreal Projects\\Pacman\\.vscode\\compileCommands_Pacman\\Pacman.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\Pacman\\\\Source\\\\Pacman\\\\PacmanGameModeBase.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\user\\Documents\\Unreal Projects\\Pacman\\.vscode\\compileCommands_Pacman\\Pacman.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\Pacman\\\\Source\\\\Pacman\\\\PacmanGameModeBase.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\user\\Documents\\Unreal Projects\\Pacman\\.vscode\\compileCommands_Pacman\\Pacman.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\Pacman\\\\Source\\\\Pacman\\\\PacmanPawn.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\user\\Documents\\Unreal Projects\\Pacman\\.vscode\\compileCommands_Pacman\\Pacman.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\Pacman\\\\Source\\\\Pacman\\\\PacmanPawn.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\user\\Documents\\Unreal Projects\\Pacman\\.vscode\\compileCommands_Pacman\\Pacman.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	}
+]
